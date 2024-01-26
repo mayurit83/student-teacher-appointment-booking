@@ -1,0 +1,25 @@
+.welcome-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+    padding: 1em;
+    background-image: url("https://cdn.pixabay.com/photo/2016/09/12/19/52/school-1665535_1280.jpg");
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 1em;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 10em;
+    margin-left: 35em;
+    margin-right: 30em;
+    color: black;
+    background-color: rgb(191, 242, 246);
+    border-radius: 10px;
+}

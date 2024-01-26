@@ -1,0 +1,36 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+label {
+  margin-bottom: 10px;
+ 
+}
+
+input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  font-size: 16px;
+  font-family: 'Arial', sans-serif;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  font-family: 'Arial', sans-serif;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0069d9;
+ 
+}
